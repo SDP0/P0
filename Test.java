@@ -10,7 +10,7 @@ import java.io.IOException;
 
 /**
  *
- * @author czamrbse9.alumnes
+ * @author Carme Zambrana i Laia Nadal
  */
 public class Test {
 
